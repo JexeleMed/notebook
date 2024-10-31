@@ -1,0 +1,6 @@
+# ninja log v6
+11	2674	7520944347318919	CMakeFiles/doublyLinkedList.dir/DoublyLinkedList.cpp.obj	1deb9c2c59c60b32
+20	2744	7520944347408870	CMakeFiles/doublyLinkedList.dir/main.cpp.obj	f79e5cb8447a13a
+2744	3113	7520944374643264	doublyLinkedList.exe	cd83fa13297c7509
+23	1132	7520944633181596	CMakeFiles/doublyLinkedList.dir/main.cpp.obj	f79e5cb8447a13a
+1134	1385	7520944644285201	doublyLinkedList.exe	cd83fa13297c7509

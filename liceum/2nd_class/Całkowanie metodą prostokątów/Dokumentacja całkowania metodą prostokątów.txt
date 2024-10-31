@@ -1,0 +1,17 @@
+Uruchom program z linku załączonego do lekcji i oblicz pole powierzchni dla funkcji y=x^2-25+4. Program prześlij przez Classroom.
+
+
+Przedział:
+a = -25
+b = 4
+
+Liczba prostokątów:  100000
+
+Pole figury wynosi: 4983.17
+
+
+Użyłem programu, który jest załączony z tym plikiem (.txt).
+
+
+Kuba Majer 2F
+

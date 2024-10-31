@@ -1,0 +1,3 @@
+C:/DEV/studia/hanoi/cmake-build-debug/CMakeFiles/hanoi.dir
+C:/DEV/studia/hanoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DEV/studia/hanoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
