@@ -52,8 +52,10 @@ int main(){
     j = 4;
     k = 5;
 
-    k=i++ + ++j;
-    std::cout << "g: i = "<< i << " j = " << j << " k = " << k << std::endl;
+    // Tutaj blad kompilatora k=i+++++j;
+    //Mozliwe rozwiazanie
+    //k=i++ + ++j
+    //std::cout << "g: i = "<< i << " j = " << j << " k = " << k << std::endl;
 
     i = 3;
     j = 4;
@@ -65,9 +67,10 @@ int main(){
     j = 4;
     k = 5;
 
-    int *p = &i;
-    k=*p*j;
-    std::cout << "i: i = "<< i << " j = " << j << " k = " << k << std::endl;
+    // nalezy zadeklarowac pointer by zadzialalo, inaczej blad kompilatora
+    // int *p = &i;
+    // k=*p*j;
+    // std::cout << "i: i = "<< i << " j = " << j << " k = " << k << std::endl;
 
     i = 3;
     j = 4;
@@ -81,7 +84,7 @@ int main(){
     k = 5;
 
     k^=i^j;
-    std::cout << "l: i = "<< i << " j = " << j << " k = " << k << std::endl;
+    std::cout << "k: i = "<< i << " j = " << j << " k = " << k << std::endl;
 
 
     i = 3;
