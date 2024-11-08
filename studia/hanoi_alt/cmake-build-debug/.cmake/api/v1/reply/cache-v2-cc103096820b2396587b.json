@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/DEV/studia/hanoi/cmake-build-debug"
+			"value" : "c:/NOTEBOOK/studia/hanoi_alt/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/DEV/studia/hanoi/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/NOTEBOOK/studia/hanoi_alt/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/DEV/studia/hanoi"
+			"value" : "C:/NOTEBOOK/studia/hanoi_alt"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/DEV/studia/hanoi/cmake-build-debug"
+			"value" : "C:/NOTEBOOK/studia/hanoi_alt/cmake-build-debug"
 		},
 		{
 			"name" : "hanoi_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/DEV/studia/hanoi"
+			"value" : "C:/NOTEBOOK/studia/hanoi_alt"
 		}
 	],
 	"kind" : "cache",

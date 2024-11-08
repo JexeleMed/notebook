@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/DEV/studia/conversion/cmake-build-debug",
-		"source" : "C:/DEV/studia/conversion"
+		"build" : "C:/NOTEBOOK/studia/conversion/cmake-build-debug",
+		"source" : "C:/NOTEBOOK/studia/conversion"
 	},
 	"version" : 
 	{

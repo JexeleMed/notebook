@@ -1,0 +1,3 @@
+C:/NOTEBOOK/studia/hanoi_alt/cmake-build-debug/CMakeFiles/hanoi.dir
+C:/NOTEBOOK/studia/hanoi_alt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/NOTEBOOK/studia/hanoi_alt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

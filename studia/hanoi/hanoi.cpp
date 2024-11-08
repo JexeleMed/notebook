@@ -24,7 +24,7 @@ bool inputchecker(int destination, int column){
 }
 
 void mover(int destination, int column, std::vector<int>& tower1, std::vector<int>& tower2, std::vector<int>& tower3 ){
-    auto& from = (column == 1) ? tower1 : (column == 2) ? tower2 : tower3; 
+    auto& from = (column == 1) ? tower1 : (column == 2) ? tower2 : tower3;
     auto& to = (destination == 1) ? tower1 : (destination == 2) ? tower2 : tower3;
     //instrukcje pomijajace zagniezdzajace sie if statements
     //przyporzadkowuje zmiennym from i to wartosci na bazie inputu przekazanageo do funkcji
@@ -62,7 +62,7 @@ int main(){
     int column = 0;
     int destination = 0;
     std::cout << "Twoim zadaniem jest przeniesc elementy z wierzy 1 na 3, tak zeby najwiekszy dysk byl na dole a najmniejszy na gorze" << std::endl;
-    
+
     for(;;){
         drukarka(tower1, tower2, tower3);
 
@@ -79,14 +79,14 @@ int main(){
             std::cout<< "Wybierz kolumne, z ktorej chcesz przestawic?" << std::endl;
             std::cin >> destination;
         }
-        
+
 
         mover(destination, column, tower1, tower2, tower3);
 
 
         if(winner(tower1, tower2, tower3, win) == 1){
             std::cout << "Gratulacje - wygrales!";
-            return 0; 
+            return 0;
         }
     }
 }

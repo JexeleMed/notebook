@@ -817,8 +817,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/DEV/studia/hanoi/cmake-build-debug",
-		"source" : "C:/DEV/studia/hanoi"
+		"build" : "C:/NOTEBOOK/studia/conversion/cmake-build-debug",
+		"source" : "C:/NOTEBOOK/studia/conversion"
 	},
 	"version" : 
 	{

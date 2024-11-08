@@ -4,4 +4,4 @@ project(hanoi)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(hanoi
-    hanoi.cpp)
+        hanoi.cpp)

@@ -154,8 +154,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/DEV/studia/conversion/cmake-build-debug",
-		"source" : "C:/DEV/studia/conversion"
+		"build" : "C:/NOTEBOOK/studia/hanoi_alt/cmake-build-debug",
+		"source" : "C:/NOTEBOOK/studia/hanoi_alt"
 	},
 	"version" : 
 	{

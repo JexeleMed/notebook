@@ -1,4 +1,4 @@
-# Install script for directory: C:/DEV/studia/conversion
+# Install script for directory: C:/NOTEBOOK/studia/conversion
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/DEV/studia/conversion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/NOTEBOOK/studia/conversion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
